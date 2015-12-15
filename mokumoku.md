@@ -36,5 +36,5 @@ Github Wikiに記載をお願いします
 直接の連絡は、Doorkeeperからメッセージをください  
 [https://medakarb.doorkeeper.jp/contact/new](https://medakarb.doorkeeper.jp/contact/new)  
 当日聞いてもらっても大丈夫です  
-
+  
 
